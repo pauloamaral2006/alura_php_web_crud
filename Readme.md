@@ -17,7 +17,7 @@
 ## 🖥️ Tecnologias
 
 <div>
-  <img src="hhttps://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
 </div>
 
 ## 🧑‍🏫 Instrutor(es)
