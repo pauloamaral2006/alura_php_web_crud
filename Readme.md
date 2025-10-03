@@ -18,6 +18,9 @@
 
 <div>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
 </div>
 
 ## 🧑‍🏫 Instrutor(es)
