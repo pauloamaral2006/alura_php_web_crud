@@ -2,11 +2,11 @@
 
 ## ℹ️ Sobre
 
-<p>PHP e MySQL: criando sua primeira aplicação web</p>
+<p>Projeto utilizado no curso para aprendizado das técnicas e melhores práticas.</p>
 
 ## 📘Ementa
 
-### PHP: conheça a programação Orientada a Objetos
+### PHP e MySQL: criando sua primeira aplicação web
 
 - Aprender a usar o PHP na web
 - Criar aplicativos dinâmicos usando PHP e MySQL para realizar operações de CRUD (Create, Read, Update, Delete) no front-end
